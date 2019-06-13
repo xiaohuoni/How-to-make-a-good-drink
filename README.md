@@ -21,8 +21,11 @@ So I decided to develop my favorite drink, using the only ingredients I had on m
 | 咖啡滤纸 | 惠宜 |
 | 290ml马克杯 | 野兽派 |
 | 茶勺 | LORENA |
+| 炼乳 | Panda |
 
 I will update my production process in [issues](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues) until I find my favorite one.
 If you have a good idea, I hope you can share it with me.
 
-## [茉莉花茶+牛奶+糖+奶油球](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/1)
+## [[极差]茉莉花茶+牛奶+糖+奶油球](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/1)
+
+## [[良]牛奶+咖啡+炼乳+方糖](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/2)
