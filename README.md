@@ -29,3 +29,5 @@ If you have a good idea, I hope you can share it with me.
 ## [[极差]茉莉花茶+牛奶+糖+奶油球](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/1)
 
 ## [[良]牛奶+咖啡+炼乳+方糖](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/2)
+
+## [[差] 茉莉花茶+炼乳+糖](https://github.com/xiaohuoni/How-to-make-a-good-drink/issues/3)
